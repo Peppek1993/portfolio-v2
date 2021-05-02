@@ -1,6 +1,6 @@
 <template>
     <div id="app">
-        <Main />
+        <Main /> {{ 'test' }}
     </div>
 </template>
 
